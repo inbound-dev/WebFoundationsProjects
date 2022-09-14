@@ -1,0 +1,52 @@
+ Welcome to 2nd session!
+
+HTML: Hypertext Markup Language!
+Hypertext...refers to linked text...
+Markup.. Conestoga <red>College</red>
+<b>Conestoga</b> College
+
+Language: Scripting language
+Line by line interpretation..
+
+Tags: 
+The combination of "<" some text ">"...is called a tag.
+<html> </html>,<head>,<title>
+
+Element: Everything from starting tag to the ending tag is called an 
+element.
+
+<b>Hello World</b>
+<head><title>Noman Atique</title></head>
+
+Empty element:
+An element with NO contents... <br/> <img/>
+
+
+Entities: a combination of & and ;
+&copy;  ... &lt;... &gt;
+
+Attributes:
+
+<img src="abc.jpg"/>
+
+Syntax:
+1.<html>...</html>
+Everything of the website should be
+inside <html>..</html>
+
+2. <head>...</head>
+Always executes first..
+
+3. <body>..</body>
+You want to show to viewers should 
+be inside body tag...
+
+Comments in HTML:
+<!-- comments here -->
+
+In other languages:
+// single line comment
+/* this is
+multiline 
+comment */
+
